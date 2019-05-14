@@ -1,1 +1,1 @@
-# Java FileTransfer System
+# Java File Transfer System
