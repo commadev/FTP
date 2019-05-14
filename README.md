@@ -1,1 +1,1 @@
-# FTP
+# Java FileTransfer System
